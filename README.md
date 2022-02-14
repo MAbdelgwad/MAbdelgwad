@@ -1,7 +1,5 @@
 
 <img src="https://user-images.githubusercontent.com/60010299/153903941-3c1265f2-53fa-4db1-8ac0-e58b2a2cb96b.gif" alt="my banner">
-
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Mahmoud Abdelgwad</h1>
 <h3 align="center">junior.. Software Engineer From Egypt with Excellent understanding of {IT}Information Systems & Technology , Networking .. Android developer with stellar communication skills …</h3>
 
@@ -11,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MAbdelgwad](https://github.com/MAbdelgwad)
 
-- 💬 Ask me about **Java , Python , Android and Web**
+- 💬 Ask me about **Java , Python , Android and Web Technologies**
 
 - 📫 How to reach me **Eng.ma7m9d@gmail.com**
 
