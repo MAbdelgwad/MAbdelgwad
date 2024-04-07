@@ -1,7 +1,7 @@
 
 <img src="https://user-images.githubusercontent.com/60010299/153903941-3c1265f2-53fa-4db1-8ac0-e58b2a2cb96b.gif" alt="my banner">
 <h1 align="center">Hi 👋, I'm Mahmoud Abdelgwad</h1>
-<h3 align="center">junior.. Software Engineer From Egypt with Excellent understanding of {IT}Information Systems & Technology , Networking .. Android developer with stellar communication skills …</h3>
+<h3 align="center">Entry level Software Engineer, My areas of interest are in cloud computing, Full stack-stack and tech-stack, distributed systems  and mobile technologies …</h3>
 
 - 🔭 I’m currently working on [Weather APP](https://github.com/MAbdelgwad/1-Grooz_Coffee)
 
