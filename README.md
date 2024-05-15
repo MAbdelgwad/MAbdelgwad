@@ -1,19 +1,18 @@
 
 <img src="https://user-images.githubusercontent.com/60010299/153903941-3c1265f2-53fa-4db1-8ac0-e58b2a2cb96b.gif" alt="my banner">
 <h1 align="center">Hi 👋, I'm Mahmoud Abdelgwad</h1>
-<h3 align="center">Entry level Software Engineer, My areas of interest are in cloud computing, Full stack-stack and tech-stack, distributed systems  and mobile technologies …</h3>
+<h3 align="center">Software Engineer, My areas of interest are in cloud computing, Full stack-stack and tech-stack, distributed systems  and mobile technologies …</h3>
 
-- 🔭 I’m currently working on [Weather APP](https://github.com/MAbdelgwad/1-Grooz_Coffee)
+- 🔭 I’m currently working on [ERPMMA](https://github.com/MAbdelgwad/1-Grooz_Coffee)
 
-- 🌱 I’m currently learning **devops Technologies**
+- 🌱 I’m currently learning **DevOps Technologies**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MAbdelgwad](https://github.com/MAbdelgwad)
 
-- 💬 Ask me about **Java , Python , Android and Web Technologies**
+- 💬 Ask me about **Java, LARAVEL, NodeJS, Android and Web Technologies**
 
-- 📫 How to reach me **Eng.ma7m9d@gmail.com**
+- 📫 How to reach me **Eng.ma7m9d@gmail.com** **mabdelgwad@erpmma.atwebpages.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Z9CO0FdXYFPjuUOAfdh7IAUyPepGbtP8/view?usp=sharing](https://drive.google.com/file/d/1Z9CO0FdXYFPjuUOAfdh7IAUyPepGbtP8/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
