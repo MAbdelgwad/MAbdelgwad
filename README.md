@@ -11,7 +11,8 @@
 
 - 💬 Ask me about **Java, LARAVEL, NodeJS, Android and Web Technologies**
 
-- 📫 How to reach me **Eng.ma7m9d@gmail.com** **mabdelgwad@erpmma.atwebpages.com**
+- 📫 How to reach me **Eng.ma7m9d@gmail.com**
+-   **mabdelgwad@erpmma.atwebpages.com**
 
 
 <h3 align="left">Connect with me:</h3>
